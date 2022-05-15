@@ -1,0 +1,22 @@
+p {
+    color:green;
+    border-style: dashed;
+}
+
+
+#unikalsid{
+color:rgb(13, 0, 255);
+font-size: large;
+
+}
+.ramitis {border-style: double;
+border-color:chocolate;
+width:15%;}
+#specialramitis{
+    border-style: double;
+        border-color:chocolate;
+        margin: 20px;
+        padding: 20%;
+
+}
+
