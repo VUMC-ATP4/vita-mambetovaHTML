@@ -1,0 +1,27 @@
+.bigFrame{
+    border-style: double;
+    border-color:blueviolet;
+    width:40%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+   
+}
+
+.frame{
+    border-style:unset;
+    border-color:black; 
+    background-color:aliceblue;
+}
+.frameTwo{
+    border-style: none;
+    border-color: black;
+    height: 200px;
+}
+
+.framePhotocontacts{
+    border-style:none;
+    border-color:aliceblue;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
